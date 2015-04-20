@@ -1,0 +1,126 @@
+{
+  "generation": [
+    {
+      "templateId": "fioriexttemplate.extensionProject",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 14 Apr 2015 10:57:50 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.extendcontrollercomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 14 Apr 2015 11:24:19 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.replaceviewcomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 14 Apr 2015 12:00:39 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.replaceviewcomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 14 Apr 2015 12:16:23 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.extendcontrollercomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 14 Apr 2015 12:57:11 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.replaceviewcomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Wed, 15 Apr 2015 08:31:04 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.extendcontrollercomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Wed, 15 Apr 2015 08:32:48 GMT"
+    },
+    {
+      "templateId": "fioriexttemplate.extendcontrollercomponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Thu, 16 Apr 2015 13:43:23 GMT"
+    }
+  ],
+  "extensibility": {
+    "controllers": {
+      "Main": "CRM_MYACCOUNTS%2fMain.controller.js",
+      "S2": "CRM_MYACCOUNTS%2fview%2fS2.controller.js",
+      "S360": "CRM_MYACCOUNTS%2fview%2fS360.controller.js",
+      "S4Attachments": "CRM_MYACCOUNTS%2fview%2fS4Attachments.controller.js",
+      "S4Notes": "CRM_MYACCOUNTS%2fview%2fS4Notes.controller.js",
+      "SearchResultPage": "CRM_MYACCOUNTS%2fview%2fsearch%2fSearchResultPage.controller.js",
+      "GeneralDataEdit": "CRM_MYACCOUNTS%2fview%2fmaintain%2fGeneralDataEdit.controller.js",
+      "Appointments": "CRM_MYACCOUNTS%2fview%2foverview%2fAppointments.controller.js",
+      "Attachments": "CRM_MYACCOUNTS%2fview%2foverview%2fAttachments.controller.js",
+      "Contacts": "CRM_MYACCOUNTS%2fview%2foverview%2fContacts.controller.js",
+      "GeneralData": "CRM_MYACCOUNTS%2fview%2foverview%2fGeneralData.controller.js",
+      "Leads": "CRM_MYACCOUNTS%2fview%2foverview%2fLeads.controller.js",
+      "Notes": "CRM_MYACCOUNTS%2fview%2foverview%2fNotes.controller.js",
+      "Opportunities": "CRM_MYACCOUNTS%2fview%2foverview%2fOpportunities.controller.js",
+      "OverviewPage": "CRM_MYACCOUNTS%2fview%2foverview%2fOverviewPage.controller.js",
+      "Quickoverview": "CRM_MYACCOUNTS%2fview%2foverview%2fQuickoverview.controller.js",
+      "Quotations": "CRM_MYACCOUNTS%2fview%2foverview%2fQuotations.controller.js",
+      "SalesOrders": "CRM_MYACCOUNTS%2fview%2foverview%2fSalesOrders.controller.js",
+      "Tasks": "CRM_MYACCOUNTS%2fview%2foverview%2fTasks.controller.js"
+    },
+    "views": {
+      "Main": "CRM_MYACCOUNTS%2fMain.view.xml",
+      "S2": "CRM_MYACCOUNTS%2fview%2fS2.view.xml",
+      "S360": "CRM_MYACCOUNTS%2fview%2fS360.view.xml",
+      "S4Attachments": "CRM_MYACCOUNTS%2fview%2fS4Attachments.view.xml",
+      "S4Notes": "CRM_MYACCOUNTS%2fview%2fS4Notes.view.xml",
+      "SearchResultPage": "CRM_MYACCOUNTS%2fview%2fsearch%2fSearchResultPage.view.xml",
+      "GeneralDataEdit": "CRM_MYACCOUNTS%2fview%2fmaintain%2fGeneralDataEdit.view.xml",
+      "Appointments": "CRM_MYACCOUNTS%2fview%2foverview%2fAppointments.view.xml",
+      "Attachments": "CRM_MYACCOUNTS%2fview%2foverview%2fAttachments.view.xml",
+      "Contacts": "CRM_MYACCOUNTS%2fview%2foverview%2fContacts.view.xml",
+      "GeneralData": "CRM_MYACCOUNTS%2fview%2foverview%2fGeneralData.view.xml",
+      "Leads": "CRM_MYACCOUNTS%2fview%2foverview%2fLeads.view.xml",
+      "Notes": "CRM_MYACCOUNTS%2fview%2foverview%2fNotes.view.xml",
+      "Opportunities": "CRM_MYACCOUNTS%2fview%2foverview%2fOpportunities.view.xml",
+      "OverviewPage": "CRM_MYACCOUNTS%2fview%2foverview%2fOverviewPage.view.xml",
+      "Quickoverview": "CRM_MYACCOUNTS%2fview%2foverview%2fQuickoverview.view.xml",
+      "Quotations": "CRM_MYACCOUNTS%2fview%2foverview%2fQuotations.view.xml",
+      "SalesOrders": "CRM_MYACCOUNTS%2fview%2foverview%2fSalesOrders.view.xml",
+      "Tasks": "CRM_MYACCOUNTS%2fview%2foverview%2fTasks.view.xml"
+    },
+    "fragments": {
+      "ResultListItem": "CRM_MYACCOUNTS%2fview%2fsearch%2fResultListItem.fragment.xml",
+      "GeneralDataEditCompany": "CRM_MYACCOUNTS%2fview%2fmaintain%2fGeneralDataEditCompany.fragment.xml",
+      "GeneralDataEditPerson": "CRM_MYACCOUNTS%2fview%2fmaintain%2fGeneralDataEditPerson.fragment.xml",
+      "ValueHelpCountry": "CRM_MYACCOUNTS%2fview%2fmaintain%2fValueHelpCountry.fragment.xml",
+      "ValueHelpEmployeeResponsible": "CRM_MYACCOUNTS%2fview%2fmaintain%2fValueHelpEmployeeResponsible.fragment.xml",
+      "ValueHelpRegion": "CRM_MYACCOUNTS%2fview%2fmaintain%2fValueHelpRegion.fragment.xml",
+      "GeneralDataCompany": "CRM_MYACCOUNTS%2fview%2foverview%2fGeneralDataCompany.fragment.xml",
+      "GeneralDataPerson": "CRM_MYACCOUNTS%2fview%2foverview%2fGeneralDataPerson.fragment.xml",
+      "ItemsQuickoverview": "CRM_MYACCOUNTS%2fview%2foverview%2fItemsQuickoverview.fragment.xml"
+    },
+    "type": "abaprep",
+    "component": "CRM_MYACCOUNTS%2fComponent.js",
+    "configuration": "CRM_MYACCOUNTS%2fConfiguration.js",
+    "namespace": "cus.crm.myaccounts",
+    "resourceBundle": "i18n/i18n.properties",
+    "system": {
+      "name": "crmmot"
+    },
+    "parenturl": "/destinations/crmmot/sap/bc/ui5_ui5/sap/CRM_MYACCOUNTS"
+  },
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en",
+    "defaultI18NPropertyFile": "i18n.properties",
+    "resourceModelName": "i18n"
+  },
+  "deploy": {
+    "destination": "crmmot",
+    "name": "Z_EXT_ACCOUNT"
+  },
+  "mockpreview": {
+    "mockUri": "/sap/opu/odata/sap/ZCRM_BUPA_ODATA_SRV/",
+    "metadataFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  }
+}
